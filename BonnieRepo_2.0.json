@@ -25,7 +25,7 @@
                 {
                   "version": "4.3",
                   "date": "2022-06-14",
-                  "localizedDescription": "Release 4.3.0\nFlappy Bird, rewritten and remastered for modern devices!",
+                  "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
                   "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
                   "size": 2000000,
                   "minOSVersion": "14.0",
@@ -51,7 +51,7 @@
                 {
                   "version": "1.4",
                   "date": "2023-02-28",
-                  "localizedDescription": "Release 1.4\nDelta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS. Delta is the spiritual successor to GBA4iOS — a Game Boy Advance emulator for iOS devices Paul Thorsen and I made while in high school together — rebuilt from the ground up with modern iOS features and support for more systems.",
+                  "localizedDescription": "Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS. Delta is the spiritual successor to GBA4iOS — a Game Boy Advance emulator for iOS devices Paul Thorsen and I made while in high school together — rebuilt from the ground up with modern iOS features and support for more systems.",
                   "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
                   "size": 44200000,
                   "minOSVersion": "14.0",
@@ -77,7 +77,7 @@
                 {
                   "version": "1.9",
                   "date": "2023-07-08",
-                  "localizedDescription": "Release 1.9\niTorrent is an ordinary torrent client for iOS with Files app support.",
+                  "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
                   "downloadURL": "https://github.com/Bonnie39/trollapps-repo/raw/main/ipa/iTorrent-1.9.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
