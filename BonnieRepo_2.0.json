@@ -16,7 +16,7 @@
             "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
             "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/FlappyBird.png",
             "tintColor": "#F54F32",
-            "screenshots": [
+            "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_2.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_3.png"
@@ -42,7 +42,7 @@
             "localizedDescription": "Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS. Delta is the spiritual successor to GBA4iOS — a Game Boy Advance emulator for iOS devices Paul Thorsen and I made while in high school together — rebuilt from the ground up with modern iOS features and support for more systems.",
             "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/Delta.png",
             "tintColor": "#F54F32",
-            "screenshots": [
+            "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.rileytestut.Delta/Delta_1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.rileytestut.Delta/Delta_2.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.rileytestut.Delta/Delta_3.png"
@@ -68,7 +68,7 @@
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
             "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
             "tintColor": "#F54F32",
-            "screenshots": [
+            "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_2.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_3.png"
