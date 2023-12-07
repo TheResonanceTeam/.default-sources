@@ -1,0 +1,58 @@
+{
+    "name": "haxi0's Source",
+    "subtitle": "A source for all of my apps",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
+    "website": "https://haxi0.space/",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "Jaility",
+            "bundleIdentifier": "org.haxi0.Jaility",
+            "developerName": "haxi0",
+            "subtitle": "iOS supercharger for TrollStore.",
+            "localizedDescription": "iOS supercharger for TrollStore.",
+            "iconURL": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
+            "tintColor": "#F54F32",
+            "screenshots": [
+            ],
+            "versions": [
+                {
+                  "version": "3.1.1",
+                  "date": "2022-11-12",
+                  "localizedDescription": "Release 3.1.1",
+                  "downloadURL": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
+                  "size": 106000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "TrollBoard",
+            "bundleIdentifier": "com.haxi0.TrollBoard-Reborn",
+            "developerName": "haxi0",
+            "subtitle": "A webclips icon pack manager.",
+            "localizedDescription": "Theme your app icons with webclips!",
+            "iconURL": "https://raw.githubusercontent.com/haxi0/TrollBoard-Reborn/main/TrollBoard%20Reborn/Assets.xcassets/AppIcon.appiconset/TrollBoard.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2023-12-05",
+                  "localizedDescription": "Release 1.0",
+                  "downloadURL": "https://github.com/haxi0/TrollBoard-Reborn/releases/download/1.0/TrollBoard.Reborn.ipa",
+                  "size": 529000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
