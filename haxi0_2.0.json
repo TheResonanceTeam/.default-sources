@@ -23,7 +23,7 @@
                 {
                   "version": "3.1.1",
                   "date": "2022-11-12",
-                  "localizedDescription": "Release 3.1.1",
+                  "localizedDescription": "Release 3.1.1\niOS supercharger for TrollStore.",
                   "downloadURL": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
                   "size": 106000,
                   "minOSVersion": "14.0",
@@ -48,7 +48,7 @@
                 {
                   "version": "1.0",
                   "date": "2023-12-05",
-                  "localizedDescription": "Release 1.0",
+                  "localizedDescription": "Release 1.0\nTheme your app icons with webclips!",
                   "downloadURL": "https://github.com/haxi0/TrollBoard-Reborn/releases/download/1.0/TrollBoard.Reborn.ipa",
                   "size": 529000,
                   "minOSVersion": "14.0",
