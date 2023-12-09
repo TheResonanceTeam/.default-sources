@@ -1,0 +1,97 @@
+{
+    "name": "Resonance Team",
+    "subtitle": "Official Resonance Team Repo",
+    "description": "Official Resonance Team Repo",
+    "iconURL": "https://avatars.githubusercontent.com/u/153022719?s=200&v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/153022719?s=200&v=4",
+    "website": "https://github.com/TheResonanceTeam",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "TrollApps",
+            "bundleIdentifier": "org.resonance.store",
+            "developerName": "Resonance Team",
+            "subtitle": "App Store alternative for TrollStore.",
+            "localizedDescription": "App Store alternative for TrollStore.",
+            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/TrollApps/TrollApps/Assets.xcassets/AppIcon.appiconset/512.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-1.png",
+                "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-2.png",
+                "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2023-12-07",
+                    "localizedDescription": "App Store alternative for TrollStore.",
+                    "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.0-Hotfix-2/org.resonance.store_TrollApps_2.0_Hotfix_2.ipa",
+                    "size": 4430000,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "TrollApps Legacy",
+            "bundleIdentifier": "org.haxi0.TrollApps",
+            "developerName": "haxi0",
+            "subtitle": "App Store alternative for TrollStore.",
+            "localizedDescription": "App Store alternative for TrollStore.",
+            "iconURL": "https://raw.githubusercontent.com/haxi0/TrollApps/main/TrollApps/TrollApps/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [],
+            "versions": [
+                {
+                  "version": "1.3",
+                  "date": "2023-12-08",
+                  "localizedDescription": "App Store alternative for TrollStore.",
+                  "downloadURL": "https://github.com/Bonnie39/TrollApps/releases/download/1.3/TrollApps_v1.3_Final.ipa",
+                  "size": 4430000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                },
+                {
+                    "version": "1.2",
+                    "date": "2023-12-07",
+                    "localizedDescription": "App Store alternative for TrollStore.",
+                    "downloadURL": "https://github.com/haxi0/TrollApps/releases/download/1.2/TrollApps-1.2-Final.ipa",
+                    "size": 4430000,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                },
+                {
+                    "version": "1.1",
+                    "date": "2023-12-07",
+                    "localizedDescription": "App Store alternative for TrollStore.",
+                    "downloadURL": "https://github.com/haxi0/TrollApps/releases/download/1.1/TrollApps-1.1.ipa",
+                    "size": 4430000,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                },
+                {
+                    "version": "1.0.1",
+                    "date": "2023-12-07",
+                    "localizedDescription": "App Store alternative for TrollStore.",
+                    "downloadURL": "https://github.com/haxi0/TrollApps/releases/download/1.0.1/TrollApps-1.0.1.ipa",
+                    "size": 4430000,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                },
+                {
+                    "version": "1.0",
+                    "date": "2023-12-07",
+                    "localizedDescription": "App Store alternative for TrollStore.",
+                    "downloadURL": "https://github.com/haxi0/TrollApps/releases/download/1.0/TrollApps-1.0.ipa",
+                    "size": 4430000,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
