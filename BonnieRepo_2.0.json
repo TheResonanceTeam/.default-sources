@@ -104,10 +104,10 @@
             ],
             "versions": [
                 {
-                  "version": "1.9",
-                  "date": "2023-07-08",
+                  "version": "1.8.3",
+                  "date": "2020-09-20",
                   "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-                  "downloadURL": "https://github.com/Bonnie39/trollapps-repo/raw/main/ipa/iTorrent-1.9.ipa",
+                  "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
