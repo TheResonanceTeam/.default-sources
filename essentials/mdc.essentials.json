@@ -43,7 +43,8 @@
             "iconURL": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
             "tintColor": "#F54F32",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_1.png"
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.ginsudev.WDBFontOverwrite/WDBFontOverwrite_1.png",
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.ginsudev.WDBFontOverwrite/WDBFontOverwrite_2.png"
             ],
             "versions": [
                 {
@@ -51,7 +52,31 @@
                   "date": "2023-02-09",
                   "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
                   "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
-                  "size": 15500000,
+                  "size": 5100000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "16.1.2"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "WDBRemoveThreeAppLimit",
+            "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
+            "developerName": "zhuowei",
+            "subtitle": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
+            "localizedDescription": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
+            "iconURL": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.worthdoingbadly.WDBRemoveThreeAppLimit/WDBRemoveThreeAppLimit.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2023-02-04",
+                  "localizedDescription": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
+                  "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+                  "size": 31300,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "16.1.2"
                 }
