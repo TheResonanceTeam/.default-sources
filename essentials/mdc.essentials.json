@@ -2,8 +2,8 @@
     "name": "MDC Essentials",
     "subtitle": "The #1 place to get apps supporting the MDC exploit",
     "description": "MDC exploit apps",
-    "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-    "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+    "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/mdc.essentials.icon.png",
+    "headerURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/mdc.essentials.icon.png",
     "website": "",
     "tintColor": "#F54F32",
     "featuredApps": ["com.leemin.Cowabunga"],
@@ -65,7 +65,7 @@
             "developerName": "zhuowei",
             "subtitle": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
             "localizedDescription": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
-            "iconURL": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
+            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/apple.default.icon.jpeg",
             "tintColor": "#F54F32",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.worthdoingbadly.WDBRemoveThreeAppLimit/WDBRemoveThreeAppLimit.png"
