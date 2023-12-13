@@ -1,0 +1,63 @@
+{
+    "name": "MDC Essentials",
+    "subtitle": "The #1 place to get apps supporting the MDC exploit",
+    "description": "MDC exploit apps",
+    "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+    "website": "",
+    "tintColor": "#F54F32",
+    "featuredApps": ["com.leemin.Cowabunga"],
+    "apps": [
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "developerName": "leminlimez",
+            "subtitle": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using MDC.",
+            "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using MDC.",
+            "iconURL": "https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Cowabunga/Assets.xcassets/AppIcons/AppIcon.appiconset/Cowabunga.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.leemin.Cowabunga/Cowabunga_1.png",
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.leemin.Cowabunga/Cowabunga_2.png",
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.leemin.Cowabunga/Cowabunga_3.png"
+            ],
+            "versions": [
+                {
+                  "version": "10.3.2",
+                  "date": "2023-06-29",
+                  "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using MDC.",
+                  "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
+                  "size": 15500000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "16.1.2"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "WDBFontOverwrite",
+            "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
+            "developerName": "ginsudev",
+            "subtitle": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+            "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+            "iconURL": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_1.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.10.8",
+                  "date": "2023-02-09",
+                  "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+                  "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
+                  "size": 15500000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "16.1.2"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
