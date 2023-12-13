@@ -65,7 +65,7 @@
             "developerName": "zhuowei",
             "subtitle": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
             "localizedDescription": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
-            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/apple.default.icon.jpeg",
+            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/apple.default.icon.png",
             "tintColor": "#F54F32",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/com.worthdoingbadly.WDBRemoveThreeAppLimit/WDBRemoveThreeAppLimit.png"
@@ -77,6 +77,30 @@
                   "localizedDescription": "Proof-of-concept app to remove Apple's 3-app limit for non-paid developer Apple IDs.",
                   "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
                   "size": 31300,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "16.1.2"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Whitelist",
+            "bundleIdentifier": "ca.bomberfish.Whitelist",
+            "developerName": "Bomberfish",
+            "subtitle": "Jailed iOS app to un-blacklist all enterprise-signed apps.",
+            "localizedDescription": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+            "iconURL": "https://raw.githubusercontent.com/BomberFish/Whitelist/main/Whitelist/Assets.xcassets/AppIcon.appiconset/whitelist-icon.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/ca.bomberfish.Whitelist/Whitelist.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.1.0",
+                  "date": "2023-02-04",
+                  "localizedDescription": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+                  "downloadURL": "https://github.com/BomberFish/Whitelist/releases/download/1.1.0/Whitelist.ipa",
+                  "size": 585000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "16.1.2"
                 }
