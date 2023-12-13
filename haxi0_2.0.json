@@ -56,6 +56,102 @@
                 }
               ],
             "appPermissions": {}
+        },
+        {
+          "name": "Derootifier",
+          "bundleIdentifier": "org.haxi0.Derootifier",
+          "developerName": "haxi0",
+          "subtitle": "'Derootifies' jailbreak tweak packages to support Dopamine.",
+          "localizedDescription": "'Derootify' jailbreak tweak packages!",
+          "iconURL": "https://raw.githubusercontent.com/haxi0/Derootifier/master/Derootifier/Assets.xcassets/AppIcon.appiconset/derootifier-2.png",
+          "tintColor": "#F54F32",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.Derootifier/Derootifier.png"
+          ],
+          "versions": [
+              {
+                "version": "1.3",
+                "date": "2023-05-26",
+                "localizedDescription": "'Derootify' jailbreak tweak packages!",
+                "downloadURL": "https://github.com/haxi0/Derootifier/releases/download/1.3/Derootifier_1.3.ipa",
+                "size": 1020000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "DirtyJIT",
+          "bundleIdentifier": "org.haxi0.DirtyJIT",
+          "developerName": "haxi0",
+          "subtitle": "Enable JIT on supported apps using MDC.",
+          "localizedDescription": "Enable JIT on supported apps using MDC.",
+          "iconURL": "https://raw.githubusercontent.com/haxi0/DirtyJIT/master/DirtyJIT/Assets.xcassets/AppIcon.appiconset/DirtyJIT.png",
+          "tintColor": "#F54F32",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.DirtyJIT/DirtyJIT.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2023-05-26",
+                "localizedDescription": "Enable JIT on supported apps using MDC.",
+                "downloadURL": "https://github.com/haxi0/DirtyJIT/releases/download/1.1/DirtyJIT_1.1.ipa",
+                "size": 861000,
+                "minOSVersion": "14.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "TrollLock",
+          "bundleIdentifier": "org.haxi0.TrollLock",
+          "developerName": "haxi0",
+          "subtitle": "TrollLock tweak ported to non-jailbroken iOS.",
+          "localizedDescription": "TrollLock tweak ported to non-jailbroken iOS.",
+          "iconURL": "https://raw.githubusercontent.com/haxi0/TrollLock-Reborn/main/TrollLock/TrollLock/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
+          "tintColor": "#F54F32",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.TrollLock/TrollLock.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2022-12-29",
+                "localizedDescription": "TrollLock tweak ported to non-jailbroken iOS.",
+                "downloadURL": "https://github.com/haxi0/TrollLock-Reborn/releases/download/1.1/TrollLock-1.1.ipa",
+                "size": 973000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "17.0"
+              }
+            ],
+          "appPermissions": {}
+        },
+        {
+          "name": "KillMyOTA",
+          "bundleIdentifier": "org.haxi0.KillMyOTA",
+          "developerName": "haxi0",
+          "subtitle": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
+          "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
+          "iconURL": "https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
+          "tintColor": "#F54F32",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.KillMyOTA/KillMyOTA.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2023-01-30",
+                "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
+                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.1.2"
+              }
+            ],
+          "appPermissions": {}
         }
     ],
     "news": []
