@@ -6,7 +6,7 @@
     "headerURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
     "website": "https://haxi0.space/",
     "tintColor": "#F54F32",
-    "featuredApps": [],
+    "featuredApps": ["com.haxi0.TrollBoard-Reborn", "org.haxi0.Derootifier", "org.haxi0.TrollLock"],
     "apps": [
         {
             "name": "Jaility",
