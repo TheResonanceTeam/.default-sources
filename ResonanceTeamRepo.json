@@ -12,10 +12,10 @@
             "name": "TrollApps",
             "bundleIdentifier": "org.resonance.store",
             "developerName": "Resonance Team",
-            "subtitle": "App Store alternative for TrollStore.",
+            "subtiApplicationtle": "App Store alternative for TrollStore.",
             "localizedDescription": "App Store alternative for TrollStore.",
             "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/TrollApps/TrollApps/Assets.xcassets/AppIcon.appiconset/512.png",
-            "tintColor": "#F54F32",
+            "tintColor": "#B676E6",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-2.png",
@@ -50,7 +50,7 @@
             "subtitle": "App Store alternative for TrollStore.",
             "localizedDescription": "App Store alternative for TrollStore.",
             "iconURL": "https://raw.githubusercontent.com/haxi0/TrollApps/main/TrollApps/TrollApps/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
-            "tintColor": "#F54F32",
+            "tintColor": "#0098F6",
             "screenshotURLs": [],
             "versions": [
                 {
