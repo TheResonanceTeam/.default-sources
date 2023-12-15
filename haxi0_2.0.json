@@ -63,8 +63,8 @@
           "developerName": "haxi0",
           "subtitle": "'Derootifies' jailbreak tweak packages to support Dopamine.",
           "localizedDescription": "'Derootify' jailbreak tweak packages!",
-          "iconURL": "#0AB17E",
-          "tintColor": "#F54F32",
+          "iconURL": "https://raw.githubusercontent.com/haxi0/Derootifier/master/Derootifier/Assets.xcassets/AppIcon.appiconset/derootifier-2.png",
+          "tintColor": "#0AB17E",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.Derootifier/Derootifier.png"
           ],
