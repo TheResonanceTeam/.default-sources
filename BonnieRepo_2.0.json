@@ -15,7 +15,7 @@
             "subtitle": "1:1 Flappy Bird clone in Swift.",
             "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
             "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/FlappyBird.png",
-            "tintColor": "#F54F32",
+            "tintColor": "#60DF89",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_2.png",
@@ -41,7 +41,7 @@
             "subtitle": "An ordinary torrent client for iOS with Files app support.",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
             "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
-            "tintColor": "#F54F32",
+            "tintColor": "#F40B37",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_2.png",
