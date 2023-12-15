@@ -15,7 +15,7 @@
             "subtitle": "iOS supercharger for TrollStore.",
             "localizedDescription": "iOS supercharger for TrollStore.",
             "iconURL": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
-            "tintColor": "#F54F32",
+            "tintColor": "#0096F0",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.Jaility/jaility_1.png"
             ],
@@ -39,7 +39,7 @@
             "subtitle": "A webclips icon pack manager.",
             "localizedDescription": "Theme your app icons with webclips!",
             "iconURL": "https://raw.githubusercontent.com/haxi0/TrollBoard-Reborn/main/TrollBoard%20Reborn/Assets.xcassets/AppIcon.appiconset/TrollBoard.png",
-            "tintColor": "#F54F32",
+            "tintColor": "#00B1F1",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.haxi0.TrollBoard-Reborn/TrollBoard_1.png",
                 "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/com.haxi0.TrollBoard-Reborn/TrollBoard_2.png"
@@ -63,7 +63,7 @@
           "developerName": "haxi0",
           "subtitle": "'Derootifies' jailbreak tweak packages to support Dopamine.",
           "localizedDescription": "'Derootify' jailbreak tweak packages!",
-          "iconURL": "https://raw.githubusercontent.com/haxi0/Derootifier/master/Derootifier/Assets.xcassets/AppIcon.appiconset/derootifier-2.png",
+          "iconURL": "#0AB17E",
           "tintColor": "#F54F32",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.Derootifier/Derootifier.png"
@@ -88,7 +88,7 @@
           "subtitle": "Enable JIT on supported apps using MDC.",
           "localizedDescription": "Enable JIT on supported apps using MDC.",
           "iconURL": "https://raw.githubusercontent.com/haxi0/DirtyJIT/master/DirtyJIT/Assets.xcassets/AppIcon.appiconset/DirtyJIT.png",
-          "tintColor": "#F54F32",
+          "tintColor": "#0084FF",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.DirtyJIT/DirtyJIT.png"
           ],
@@ -112,7 +112,7 @@
           "subtitle": "TrollLock tweak ported to non-jailbroken iOS.",
           "localizedDescription": "TrollLock tweak ported to non-jailbroken iOS.",
           "iconURL": "https://raw.githubusercontent.com/haxi0/TrollLock-Reborn/main/TrollLock/TrollLock/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
-          "tintColor": "#F54F32",
+          "tintColor": "#295A52",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.TrollLock/TrollLock.png"
           ],
@@ -136,7 +136,7 @@
           "subtitle": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
           "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
           "iconURL": "https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
-          "tintColor": "#F54F32",
+          "tintColor": "#FF8B29",
           "screenshotURLs": [
               "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.KillMyOTA/KillMyOTA.png"
           ],
