@@ -9,50 +9,21 @@
     "featuredApps": [],
     "apps": [
         {
-            "name": "Flappy Bird",
-            "bundleIdentifier": "org.brandonplank.flappybird",
-            "developerName": "Brandon Plank",
-            "subtitle": "1:1 Flappy Bird clone in Swift.",
-            "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
-            "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/FlappyBird.png",
+            "name": "tapgame prototype",
+            "bundleIdentifier": "dev.bonnie.tapgame",
+            "developerName": "BonnieDev",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/apple.default.icon.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_1.png",
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_2.png",
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.brandonplank.flappybird/flappybird_3.png"
             ],
             "versions": [
                 {
-                  "version": "4.3",
+                  "version": "1.0",
                   "date": "2022-06-14",
-                  "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
-                  "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-                  "size": 2000000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "iTorrent",
-            "bundleIdentifier": "ru.nonamedude.iTorrent",
-            "developerName": "XITRIX // nonamedude",
-            "subtitle": "An ordinary torrent client for iOS with Files app support.",
-            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
-            "tintColor": "#F40B37",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_1.png",
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_2.png",
-                "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/ru.nonamedude.iTorrent/itorrent_3.png"
-            ],
-            "versions": [
-                {
-                  "version": "1.9",
-                  "date": "2023-12-12",
-                  "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-                  "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.9-pre/iTorrent.ipa",
+                  "localizedDescription": "very early test version (it sucks)",
+                  "downloadURL": "https://github.com/Bonnie39/mobile-tapgame/releases/download/build-1/game-build1.ipa",
                   "size": 17400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
