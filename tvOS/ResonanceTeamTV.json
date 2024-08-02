@@ -1,0 +1,35 @@
+{
+    "name": "Resonance Team",
+    "subtitle": "Official Resonance Team tvOS Repo",
+    "description": "Official Resonance Team tvOS Repo",
+    "iconURL": "https://avatars.githubusercontent.com/u/153022719?s=200&v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/153022719?s=200&v=4",
+    "website": "https://theresonanceteam.github.io",
+    "tintColor": "#F54F32",
+    "featuredApps": ["org.resonance.tvstore"],
+    "apps": [
+        {
+            "name": "TrollAppsTV",
+            "bundleIdentifier": "org.resonance.tvstore",
+            "bundleName": "TrollAppsTV.app",
+            "developerName": "Mojang",
+            "subtitle": "TrollApps on your Apple TV.",
+            "localizedDescription": "Sideloading on your Apple TV made easy.",
+            "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
+            "headerURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.keyart.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [],
+            "versions": [
+                {
+                  "version": "0.8",
+                  "date": "2024-08-02",
+                  "localizedDescription": "TrollApps on your Apple TV.",
+                  "downloadURL": "",
+                  "size": 144082146
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
