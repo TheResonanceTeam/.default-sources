@@ -15,8 +15,8 @@
             "developerName": "Mojang",
             "subtitle": "TrollApps on your Apple TV.",
             "localizedDescription": "Sideloading on your Apple TV made easy.",
-            "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
-            "headerURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.keyart.png",
+            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/tvOS/org.resonance.tvstore/org.resonance.tvstore.png",
+            "headerURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/tvOS/org.resonance.tvstore/org.resonance.tvstore.header.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [],
             "versions": [

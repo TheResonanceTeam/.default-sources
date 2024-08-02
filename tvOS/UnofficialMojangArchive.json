@@ -1,0 +1,39 @@
+{
+    "name": "Unofficial Mojang Archive",
+    "subtitle": "Unofficial archive for Mojang's Minecraft: Apple TV Edition",
+    "description": "Unofficial archive for Mojang's Minecraft: Apple TV Edition",
+    "iconURL": "https://avatars.githubusercontent.com/u/153022719?s=200&v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/153022719?s=200&v=4",
+    "website": "https://theresonanceteam.github.io",
+    "tintColor": "#F54F32",
+    "featuredApps": ["com.mojang.minecraftappletv"],
+    "apps": [
+        {
+            "name": "Minecraft: Apple TV Edition",
+            "bundleIdentifier": "com.mojang.minecraftappletv",
+            "developerName": "Mojang",
+            "subtitle": "Minecraft on your Apple TV.",
+            "localizedDescription": "Minecraft: Apple TV Edition was the version of Bedrock Edition designed to run on tvOS. It was announced on October 27, 2016, officially released on December 19, 2016, alongside the Fire TV Edition, and discontinued on September 24, 2018. The release of the Apple TV Edition coincided with the Ender Update. It was the last Bedrock Edition to have an 'Edition' subtitle as it did not receive the Better Together Update. It was previously unclear if or when the Apple TV Edition would be updated, due to a bug. The version was officially discontinued with a message provided via the in-game patch notes and removed from the Apple App Store on September 24, 2018.",
+            "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
+            "headerURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.keyart.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png",
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png",
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png",
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.1.5",
+                  "date": "2016-12-19",
+                  "localizedDescription": "Minecraft on your Apple TV.",
+                  "downloadURL": "https://github.com/Bonnie39/trollappstv.testrepo/releases/download/thing-so-i-can-distribute-ipa-1.0/com.mojang.minecraftappletv_1.1.5.ipa",
+                  "size": 144082146
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
