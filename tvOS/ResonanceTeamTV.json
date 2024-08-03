@@ -21,10 +21,10 @@
             "screenshotURLs": [],
             "versions": [
                 {
-                  "version": "0.91",
+                  "version": "0.92",
                   "date": "2024-08-02",
                   "localizedDescription": "TrollApps on your Apple TV.",
-                  "downloadURL": "https://github.com/TheResonanceTeam/TrollAppsTV/releases/download/0.91-beta/org.resonance.tvstore_0.91b.ipa",
+                  "downloadURL": "https://github.com/TheResonanceTeam/TrollAppsTV/releases/download/0.92-beta/org.resonance.tvstore_0.92b.ipa",
                   "size": 144082146
                 }
               ],
