@@ -1,0 +1,6 @@
+alt.getutm.app
+alt.crystall1ne.dev
+altstore.oatmealdome.me
+apps.altstore.io
+flyinghead.github.io/flycast-builds/altstore.json
+https://provenance-emu.com/apps.json
